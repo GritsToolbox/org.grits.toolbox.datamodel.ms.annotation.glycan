@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<defaultPreferences>
+  <preference name="SNFG" selected="true"/>
+  <preference name="CFG"/>
+  <preference name="Oxford"/>
+  <preference name="Text"/>
+  <preference name="CFG-BW"/>
+  <preference name="Oxford-Color"/>
+  <preference name="CFG-Hybrid"/>
+</defaultPreferences>
